@@ -20,8 +20,6 @@ def show_settings() -> None:
     else:
         print("\nNo unit-specific overrides found.")
         
-show_settings()   
-        
 
 
 

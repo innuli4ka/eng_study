@@ -78,4 +78,3 @@ def training_mode():
             print(f"Meaning: {entry['meaning']}\n")
 
     print("Training complete.")
-training_mode()
